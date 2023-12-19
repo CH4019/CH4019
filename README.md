@@ -11,7 +11,7 @@
 [![](https://count.getloli.com/get/@ch4019.github.readme?theme=rule34)](https://count.getloli.com/)
 
 - 🚀 I learn to use:
-<a href="https://kotlinlang.org/">  <img src="./svg/kotlin.svg" width="35"/></a><img src="./svg/c-color.svg" width="35"/><a href="https://developer.android.google.cn/jetpack/compose">  <img src="./svg/compose-logo.svg" width="35"/></a>
+<a href="https://kotlinlang.org/">  <img src="./svg/kotlin.svg" width="35"/></a><img src="./svg/c-color.svg" width="35"/> <a href="https://developer.android.google.cn/jetpack/compose">  <img src="./svg/compose-logo.svg" width="35"/> </a>
 
 - 👨‍💼 I work use:
 [![VSCode](https://img.shields.io/badge/-VSCode-%231e3799?logo=VisualStudioCode)](https://code.visualstudio.com/)
