@@ -11,10 +11,10 @@
 [![](https://count.getloli.com/get/@ch4019.github.readme?theme=rule34)](https://count.getloli.com/)
 
 - 🚀 I learn to use:
-<a href="https://kotlinlang.org/">  <img src="./svg/kotlin.svg" width="35"/></a>
-<img src="./svg/c-color.svg" width="35"/>
+<a href="https://kotlinlang.org/">  <img src="./svg/kotlin.svg" width="35"/></a><img src="./svg/c-color.svg" width="35"/>
 
-- 👨‍💼 I work use: [![VSCode](https://img.shields.io/badge/-VSCode-%231e3799?logo=VisualStudioCode)](https://code.visualstudio.com/)
+- 👨‍💼 I work use:
+[![VSCode](https://img.shields.io/badge/-VSCode-%231e3799?logo=VisualStudioCode)](https://code.visualstudio.com/)
 [![Git](https://img.shields.io/badge/-Git-%232d3436?logo=git&logoColor=d35400)](https://git-scm.com/)
 [![Android Studio](https://img.shields.io/badge/-Android%20Studio-%2357606f?logo=AndroidStudio&logoColor=2ed573)](https://developer.android.google.cn/)
 [![Github](https://img.shields.io/badge/-Github-%232f3542?logo=Github&logoColor=ffffff)](https://github.com/)
