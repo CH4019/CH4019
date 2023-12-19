@@ -16,9 +16,9 @@
 
 - 🖥 The operating system used has: <img src="https://img.shields.io/badge/HarmonyOS--0?style=social&logo=harmonyos&logoColor=262577"/> <img src="https://img.shields.io/badge/Android--0?style=social&logo=Android&logoColor=3DDC84"/> <img src="https://img.shields.io/badge/Windows11--0?style=social&logo=windows11&logoColor=0078D6"/>
 
-![Github奖杯🏆start](https://github-profile-trophy.vercel.app/?username=ch4019&theme=dracula&margin-w=15)
+![Github奖杯🏆start](https://github-profile-trophy.vercel.app/?username=ch4019&theme=dracula&margin-w=15&row=2&column=4)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CH4019&show_icons=true&theme=material-palenight&rank_icon=github&card_width=500px)
+![CH4019's GitHub stats](https://github-readme-stats.vercel.app/api?username=CH4019&show_icons=true&theme=material-palenight&rank_icon=github&card_width=500px)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CH4019&langs_count=8&theme=material-palenight&card_width=500px)
 
