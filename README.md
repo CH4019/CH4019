@@ -30,7 +30,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CH4019&langs_count=8&theme=material-palenight&card_width=500px)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=CH4019&theme=cobalt&border_radius=6&locale=en&card_width=500px)
+![GitHub Streak](https://streak-stats.demolab.com?user=CH4019&theme=material-palenight&border_radius=6&locale=en&card_width=500px)
 
 ![CH4019's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=CH4019&theme=dracula)
 
